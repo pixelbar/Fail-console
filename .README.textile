@@ -1,0 +1,13 @@
+h1. Fail console
+
+This is a fun project made in a weekend. It uses socket.io, a private API (which uses Google translate, to generate audio voices) and some other cool stuff.
+
+h2. What's it for?
+
+It's useless \o/
+
+h2. What do I need to get this working?
+
+* A lot of beer
+* Node.JS, CoffeeScript and the modules that are in the top of server.coffee
+* The private API is now private, because it isn't public... It's made by https://github.com/drblok - and he didn't published it yet.
