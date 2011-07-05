@@ -1,0 +1,11 @@
+# Mac finder artifacts
+.DS_Store
+
+# Netbeans project directory
+/nbproject/
+
+# Textmate project files
+/*.tmpproj
+
+# vim artifacts
+**.swp
