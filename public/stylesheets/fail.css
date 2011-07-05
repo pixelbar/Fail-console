@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body, html {
+  background-color: #242424;
+}
+
+body {
+  font: 13px/20px 'Bitstream Vera Sans Mono','Courier',monospace;
+  color: #fff;
+  width: 100%;
+  margin: 5px 0;
+}
+
+section {
+  width: 960px;
+  margin: 3px 5px;
+  min-height: 18px;
+}
+
+section.response {
+  color: #8a8a8a;
+}
+
+section aside {
+  position: relative;
+  float: left;
+}
+
+section input {
+  margin: 0 0 0 8px;
+  font: 13px/20px 'Bitstream Vera Sans Mono','Courier',monospace;
+  color: #fff;
+  position: relative;
+  float: left;
+  min-width: 600px;
+  background: none;
+  border: none;
+  outline: none;
+}
+
+::selection {
+	background: #8a8a8a;
+}
+::-moz-selection {
+	background: #8a8a8a;
+}
+
